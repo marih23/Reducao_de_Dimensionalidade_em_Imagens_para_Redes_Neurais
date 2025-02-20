@@ -39,4 +39,4 @@ imshow(imagem_pb);
 # Conclusão
 
 Com isso, foi possível concluir o desafio com êxito.
-Em anexo encontra-se o resultado das imagens em ordem: Imagem Colorida, Imagem em Níveis de Cinza e Imagem em Preto e Branco.
+Em anexo encontra-se o arquivo do Scilab e o resultado das imagens em ordem: Imagem Colorida, Imagem em Níveis de Cinza e Imagem em Preto e Branco.
