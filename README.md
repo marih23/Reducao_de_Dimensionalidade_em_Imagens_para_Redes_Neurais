@@ -14,7 +14,7 @@ O desafio de projeto proposto foi realizado através do software Scilab, sem a u
 
 imagem = imread("Mulan.jpg");
 
-imshow(imagem)
+imshow(imagem);
 
 // 2. Convertendo a imagem para tons de cinza
 
@@ -23,6 +23,7 @@ imagem_tons_de_cinza = rgb2gray(imagem);
 imshow(imagem_tons_de_cinza);
 
 // 3. Binarizar a imagem com um limiar
+
 limiar = 128;  // Limite para binarização
 
 // 4. Aplicar a binarização: valores acima do limiar se tornam 255 (branco), abaixo se tornam 0 (preto)
