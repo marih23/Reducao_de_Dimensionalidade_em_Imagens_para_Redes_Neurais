@@ -6,7 +6,7 @@ Seguindo o exemplo do algoritmo de binarização apresentado em aula, realizar a
 
 # Projeto
 
-O desafio de projeto proposto foi realizado através do software Scilab, sem a utilização de bibliotecas prontas.
+O desafio de projeto proposto foi realizado através do software Scilab, sem a utilização de bibliotecas prontas e a imagem usada para treinamento foi a da animação da Disney Mulan.
 
 # Código
 
@@ -38,3 +38,4 @@ imshow(imagem_pb);
 # Conclusão
 
 Com isso, foi possível concluir o desafio com êxito.
+Em anexo encontra-se o resultado das imagens em ordem: Imagem Colorida, Imagem em Níveis de Cinza e Imagem em Preto e Branco.
